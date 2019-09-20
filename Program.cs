@@ -13,7 +13,7 @@ namespace Deliverable_3_Arrays
                     i <= 25; i++)
                 {
                     elements[i] = i + 1;
-                    Console.Write(" vaule of element = " + elements[i]);
+                    Console.Write(" Vaule Of Element = " + elements[i]);
 
                 }
             }
